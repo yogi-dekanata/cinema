@@ -66,5 +66,3 @@ class CinemaController:
                 self.display_transaction_status()
             elif choice == "exit":
                 break
-
-
